@@ -7,6 +7,10 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+.bg-color {
+    background: #0336FF;
+}
+
 .btn-outline-color {
     border-color: #0336FF;
     color: #0336FF;
@@ -32,12 +36,4 @@ body {
 .btn-color:hover {
     background: #536DFE;
     color: #FFF;
-}
-
-.icono {
-    color: #737373;
-}
-  
-.icono:hover {
-    color: #0336FF;
 }
